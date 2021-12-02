@@ -1,4 +1,4 @@
-with open("1.csv", "r") as file:
+with open("input.csv", "r") as file:
 
     values = file.read()
     values = values.split("\n")
