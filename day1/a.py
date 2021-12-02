@@ -1,4 +1,4 @@
-with open("input.csv", "r") as file:
+with open("input", "r") as file:
 
     values = file.read()
     values = values.split("\n")
@@ -9,7 +9,7 @@ with open("input.csv", "r") as file:
         x = int(x)
         if drag != None:
             if x > drag:
-                counter+=1
+                counter += 1
         drag = x
 
     print(counter)
