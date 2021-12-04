@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 
 ## a)
 ### Execute your movement commands and return the product of x and y coordinate
