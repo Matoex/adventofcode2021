@@ -1,4 +1,4 @@
-# Day 2
+# Day 7
 
 ## a)
 ### Return the minimum sum of the distances to any specific position
